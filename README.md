@@ -1,2 +1,4 @@
-# deep-autoencoder-keras
-Applying deep autoencoders for pre-training of an image classifier.
+# Implementing and comparing different kind of Autoencoders in Keras
+
+- Standard autoencoder
+- Sparse autoencoder
